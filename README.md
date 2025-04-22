@@ -1,6 +1,6 @@
 ## Hi there, I'm Shreyas Meher 👋
 
-I'm a PhD Candidate in Public Policy & Political Economy at The University of Texas at Dallas, specializing in computational social science and political analysis.
+I’m a Postdoctoral Researcher at Erasmus University Rotterdam, specializing in computational social science, digital governance, and political analysis. I recently earned my PhD in Public Policy and Political Economy from The University of Texas at Dallas.
 
 - 🔭 I'm currently working on an NSF-funded project developing machine learning frameworks for political and social event data analysis
 - 🌱 I'm currently learning and implementing advanced LLM architectures like ConflLlama and ConfliBERT
